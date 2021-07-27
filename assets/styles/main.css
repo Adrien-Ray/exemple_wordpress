@@ -1,3 +1,11 @@
+.menu {
+      position: fixed;
+      top: 0px;
+}
+  
+.admin-bar .menu {
+      top: 32px;
+  }
 body{
       background-color: wheat;
 }
