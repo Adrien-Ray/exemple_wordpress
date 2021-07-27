@@ -36,7 +36,7 @@ function orion_register_assets() {
 	if (is_front_page()) {
 		wp_enqueue_style( 
 			'orion-main-style', 
-			get_template_directory_uri() . '/assets/styles/main.css',
+			get_template_directory_uri() . '/assets/styles/front-page.css',
 			array(), 
 			'1.0'
 		);

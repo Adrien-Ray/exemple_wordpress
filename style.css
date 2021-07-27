@@ -14,3 +14,6 @@ Requires at least: WordPress 5.0 Version: 1.0 */
   .admin-bar .menu {
         top: 32px;
   }
+  h1{
+        color: red;
+  }
